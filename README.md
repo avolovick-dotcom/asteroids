@@ -12,12 +12,12 @@ Motivation - The guided project to create the Asteroids game was nice, but I fel
  - Earn 1 extra life for every 100 points, upto a Max of 5 Lives
 
 
- Usage:
-    - 'spacebar' fires the player's weapon
-    - 'a' rotates the player clockwise
-    - 'd' rotates the player anticlockwise
-    - 'w' moves the player forwards
-    - 's' moves the player backwards
+Usage:
+ - 'spacebar' fires the player's weapon
+ - 'a' rotates the player clockwise
+ - 'd' rotates the player anticlockwise
+ - 'w' moves the player forwards
+ - 's' moves the player backwards
 
 
 
