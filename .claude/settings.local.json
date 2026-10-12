@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wsl.exe -d Ubuntu-26.04 -- bash -lc 'which uv python3 2>&1; python3 --version 2>&1')",
+      "Bash(wsl.exe -d Ubuntu-26.04 -- bash -lc 'cd /mnt/c/Users/ajv09/workspace/astroids && python3 -c \"import ast; [ast.parse\\(open\\(f\\).read\\(\\), f\\) for f in [\\\\\"main.py\\\\\",\\\\\"player.py\\\\\",\\\\\"asteroid.py\\\\\",\\\\\"constants.py\\\\\"]]; print\\(\\\\\"OK\\\\\"\\)\"')",
+      "Bash(wsl.exe -d Ubuntu-26.04 -- bash -lc 'cd /mnt/c/Users/ajv09/workspace/astroids && python3 -c \"import ast; [ast.parse\\(open\\(f\\).read\\(\\), f\\) for f in [\\\\\"main.py\\\\\",\\\\\"player.py\\\\\",\\\\\"constants.py\\\\\"]]; print\\(\\\\\"OK\\\\\"\\)\"')"
+    ]
+  }
+}
